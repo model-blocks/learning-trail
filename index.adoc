@@ -29,7 +29,7 @@ How do you know if a model is good or bad? ::
 A model is only good or bad in relation to a problem.
 
 
-video::lVjxxhA10w0[youtube,width=640,height=360,t=1135]
+video::lVjxxhA10w0[youtube,width=640,height=360,start=1135]
 [.text-center]
 _(18:55 to 32:53)_
 
