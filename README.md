@@ -12,6 +12,11 @@ The learning trail will include all content but will also add additional content
 - Learning objectives
 - Excercises
 
+### Content guidelines
+
+- All content must be in English
+- Prefer content from recognized DDD experts and professional conferences
+
 ## Configuration
 
 Different learning trails can be generated for different audiences.
